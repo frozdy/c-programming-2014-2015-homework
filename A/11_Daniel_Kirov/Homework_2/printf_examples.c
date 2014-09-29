@@ -10,6 +10,7 @@
  int main ()
 {
   int number;
+  number=666;
   printf("number=%d",number);
   return 0;
 }
