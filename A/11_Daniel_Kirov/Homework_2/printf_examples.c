@@ -21,7 +21,7 @@
  int main ()
 {
  float floating_number;
- floating_number=123.456;
+ floating_number=123.456f;
  printf("%f,floating_number");
  return 0;
 }
