@@ -1,6 +1,15 @@
-#include <stdio.h?
-  int main ()
+//#include <stdio.h>
+//  int main ()
+//{
+// printf("Hello World!");
+// return 0;
+//}
+
+
+#include <stdio.h>
+ int main ()
 {
-  printf("Hello World!");
+  int number;
+  printf("number=%d",number);
   return 0;
 }
