@@ -1,0 +1,28 @@
+#include <stdio.h>
+int main ()
+{
+  char symb;
+  int i;
+    symb=97;
+    for(i=97;i<=122,i++);
+    {
+      symb++;
+      printf("%c-%d/n",symb,i);
+      
+    }
+    symb=65;
+    for(i=65,i<=90,i++);
+    {
+      symb++;
+      printf("%c-%d/n",symb,i);
+    }
+    symb=48;
+    for(i=48,i<=57,i++);
+    {
+      symb++;
+      printf("%c-%d/n",symb,i);
+    }
+return 0;
+}
+      
+      
